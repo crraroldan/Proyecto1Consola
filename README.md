@@ -4,4 +4,7 @@ Mini Consola Retro Arcade para que puedas recordar viejos tiempos mientras viaja
 
 
 
-MiniConsola.png
+![videoconsola](./img/MiniConsola.png)
+
+
+![videoconsola](./img/consolocopia.PNG)
